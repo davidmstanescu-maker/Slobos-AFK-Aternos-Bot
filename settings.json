@@ -1,13 +1,13 @@
 {
   "name": "AFKBOT",
   "bot-account": {
-    "username": "AfkbotMAIN",
+    "username": "Afkbotpinci",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "cloud69.aternos.me",
-    "port": 21355,
+    "ip": "daduspeed.aternos.me:28299",
+    "port": 28299,
     "version": "1.21.11",
     "try-creative": false
   },
