@@ -44,18 +44,18 @@
 
     "look-around": {
       "enabled": true,
-      "interval": 60000
+      "interval": 30000
     },
 
     "random-jump": {
       "enabled": true,
-      "interval": 120000
+      "interval": 45000
     },
 
     "circle-walk": {
-      "enabled": false,
-      "radius": 0,
-      "speed": 0
+      "enabled": true,
+      "radius": 1,
+      "speed": 2000
     }
   },
 
