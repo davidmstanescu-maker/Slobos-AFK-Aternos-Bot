@@ -5,6 +5,7 @@
     "password": "PANC",
     "type": "offline"
   },
+
   "server": {
     "ip": "daduspeed.aternos.me",
     "port": "28299",
@@ -39,15 +40,22 @@
   },
 
   "movement": {
-    "enabled": false,
+    "enabled": true,
+
     "look-around": {
-      "enabled": false
+      "enabled": true,
+      "interval": 60000
     },
+
     "random-jump": {
-      "enabled": false
+      "enabled": true,
+      "interval": 120000
     },
+
     "circle-walk": {
-      "enabled": false
+      "enabled": false,
+      "radius": 0,
+      "speed": 0
     }
   },
 
